@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1744
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
 description: A rent in a cloud -- St. Patrick's Eve.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32082#A-Rent-In-A-Cloud
 gutenberg_issued: '2010-04-21'
 gutenberg_type: Text
 identifiers:
